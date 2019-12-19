@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "80055369720",
+    "firebase_url": "https://contact-connection-429b9.firebaseio.com",
+    "project_id": "contact-connection-429b9",
+    "storage_bucket": "contact-connection-429b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80055369720:android:69355dcbeb4d24b7",
+        "android_client_info": {
+          "package_name": "whitehorsecorporation.contactconnection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80055369720-kneq1hoootm9t24uvm5pr99qjdrn8r40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "whitehorsecorporation.contactconnection",
+            "certificate_hash": "9a3d1ede6dc5265faa858d26dce29ddcb8c29b44"
+          }
+        },
+        {
+          "client_id": "80055369720-aog6ht9mim8fonu7ser85jpodrkvglnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB38QjZbPz6ze4loWCGvT7xtW_ZaHHpiQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80055369720-aog6ht9mim8fonu7ser85jpodrkvglnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

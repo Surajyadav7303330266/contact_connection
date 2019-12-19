@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="5dp"
+            android:background="@drawable/underwaterbackground">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ABOUT"
+                android:textAlignment="center"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:background="@drawable/gradientback"
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="App Name : Contact Connection"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:background="@drawable/gradientback"
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Version : 1.0.0"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:background="@drawable/gradientback"
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Company : White Horse Corporation"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:background="@drawable/gradientback"
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Creator : Suraj Yadav"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:background="@drawable/gradientback"
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/aboutsuraj"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:background="@drawable/gradientback"
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Contact Suraj Yadav: +91 7303330266"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:background="@drawable/gradientback"
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Special Thanks To : "
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:background="@drawable/gradientback"
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" 1 : Mohammad Ali Zeb ( @alizeb438 )"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:background="@drawable/gradientback"
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" 2 : Google"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:background="@drawable/gradientback"
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" 3 : Android Studio"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:background="@drawable/gradientback"
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
